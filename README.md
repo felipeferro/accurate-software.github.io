@@ -12,13 +12,13 @@ Temos diversas vagas para desenvolvedores: Frontend, Backend e Fullstack!
 
 1. Para começar o desafio, realize um fork no repositório: https://github.com/accurate-software/accurate-software.github.io
 
-2. O desafio deverá set commitado no fork.
+2. O desafio deverá ser commitado no fork.
 
 3. Após a finalização do desafio, solicite um pull request do fork no nosso repositório ;)
 
 ### Desafio Frontend
 
-O seu desafio é realizar um desenvolvimento de uma aplicação frontend que compra os requisitos:
+O seu desafio é realizar um desenvolvimento de uma aplicação frontend que cumpra os requisitos:
 
 + Consumo de API REST
 + CRUD ou listagem de algum recurso da API
